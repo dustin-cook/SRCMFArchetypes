@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <OpenSees
+  xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation = "http://OpenSees.berkeley.edu/xml-schema/xmlns/OpenSees.xsd">
+    <NodeOutput nodeTag="6001" coord1="0" coord2="180" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6008" coord1="0" coord2="336" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6012" coord1="0" coord2="492" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6016" coord1="0" coord2="648" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6020" coord1="0" coord2="804" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6024" coord1="0" coord2="960" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6028" coord1="0" coord2="1116" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6032" coord1="0" coord2="1272" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6036" coord1="0" coord2="1428" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6040" coord1="0" coord2="1584" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6044" coord1="0" coord2="1740" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6048" coord1="0" coord2="1896" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6052" coord1="0" coord2="2052" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6056" coord1="0" coord2="2208" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6060" coord1="0" coord2="2364" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6064" coord1="0" coord2="2520" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6068" coord1="0" coord2="2676" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6072" coord1="0" coord2="2832" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6076" coord1="0" coord2="2988" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6080" coord1="0" coord2="3144" coord3="0">
+        <ResponseType>E61</ResponseType>
+        <ResponseType>E62</ResponseType>
+        <ResponseType>E63</ResponseType>
+    </NodeOutput>
+    <Data>
+        0.00370317 9.72358e-05 -2.44795e-05 0.00681707 0.000124235 -1.48589e-05 0.00740455 0.000117186 2.69894e-06 0.00506723 0.000115262 1.97097e-05 0.000717309 0.000156485 2.88158e-05 -0.00388977 0.000261424 2.62575e-05 -0.0068892 0.000424704 1.30488e-05 -0.0070664 0.000617157 -5.46696e-06 -0.00435018 0.000797649 -2.17927e-05 0.000157092 0.000929762 -2.93061e-05 0.00462233 0.000996595 -2.49261e-05 0.00719352 0.00100776 -1.00698e-05 0.00659982 0.000995537 1.12621e-05 0.00285091 0.0010005 2.8196e-05 -0.00227723 0.00105116 3.12556e-05 -0.00623886 0.0011528 1.86784e-05 -0.00695956 0.00128996 -5.15811e-06 -0.00362828 0.00141776 -2.90002e-05 0.00213884 0.00150727 -3.76776e-05 0.0077906 0.0015474 -3.28857e-05 
+        </Data>
+</OpenSees>

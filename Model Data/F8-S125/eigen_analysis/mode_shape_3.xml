@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <OpenSees
+  xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation = "http://OpenSees.berkeley.edu/xml-schema/xmlns/OpenSees.xsd">
+    <NodeOutput nodeTag="6001" coord1="0" coord2="180" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6008" coord1="0" coord2="336" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6012" coord1="0" coord2="492" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6016" coord1="0" coord2="648" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6020" coord1="0" coord2="804" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6024" coord1="0" coord2="960" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6028" coord1="0" coord2="1116" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6032" coord1="0" coord2="1272" coord3="0">
+        <ResponseType>E31</ResponseType>
+        <ResponseType>E32</ResponseType>
+        <ResponseType>E33</ResponseType>
+    </NodeOutput>
+    <Data>
+        -0.00679561 -5.54427e-05 4.07292e-05 -0.0105323 -5.19343e-05 7.48357e-06 -0.00740092 -3.83713e-05 -3.34386e-05 0.00102071 -6.70552e-05 -5.62987e-05 0.0105882 -0.000188455 -4.18572e-05 0.0104975 -0.00034848 3.07643e-05 -0.000400473 -0.000479632 7.56203e-05 -0.0128426 -0.000538476 6.48511e-05 
+        </Data>
+</OpenSees>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <OpenSees
+  xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation = "http://OpenSees.berkeley.edu/xml-schema/xmlns/OpenSees.xsd">
+    <NodeOutput nodeTag="6001" coord1="0" coord2="180" coord3="0">
+        <ResponseType>E21</ResponseType>
+        <ResponseType>E22</ResponseType>
+        <ResponseType>E23</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6008" coord1="0" coord2="336" coord3="0">
+        <ResponseType>E21</ResponseType>
+        <ResponseType>E22</ResponseType>
+        <ResponseType>E23</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6012" coord1="0" coord2="492" coord3="0">
+        <ResponseType>E21</ResponseType>
+        <ResponseType>E22</ResponseType>
+        <ResponseType>E23</ResponseType>
+    </NodeOutput>
+    <NodeOutput nodeTag="6016" coord1="0" coord2="648" coord3="0">
+        <ResponseType>E21</ResponseType>
+        <ResponseType>E22</ResponseType>
+        <ResponseType>E23</ResponseType>
+    </NodeOutput>
+    <Data>
+        -0.0125278 0.000241863 6.62855e-05 -0.0141189 0.000526333 -2.99867e-05 -0.000613411 0.000772482 -0.000100044 0.016338 0.000887772 -9.30114e-05 
+        </Data>
+</OpenSees>
