@@ -1,2 +1,2 @@
 # SRCMFArchetypes
-OpenSees Archetype Model of Special Reinforced Concrete Moment Frames
+OpenSees Archetype Model of Special Reinforced Concrete Moment Frames. The repository contains design data, Opensees and ATC 138 model data, response data from IDA using 44 ground motions from the FEMA Far Field set, eigen analysis data, and summary ATC 138 output data for a set of 24 reinforced concrete moment frame archetypes. The archetypes are designed for a general high seismicity, Dmax, site with a soil class of C and follow the ASCE/SEI 7-16 design provision. The archetype set includes reference models designed to meet minimum base shear and drift requirements as well as enhanced designs that are designed for up to 50% higher strengths and 1% drift limits.
